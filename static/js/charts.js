@@ -132,7 +132,7 @@ var bubbleData = [
 
 // 2. Create the layout for the bubble chart.
 var bubbleLayout = {
-  title: "Bacteria Cultures Per Sample",
+  title: "<b>Bacteria Cultures Per Sample</b>",
   hovermode: "closest",
   xaxis: {title: otuIDs}
 };
