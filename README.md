@@ -9,3 +9,5 @@ their the top ten bacterial species found in their belly buttons
 
 ## **Tools Used**
 JavaScript, Plotly and D3 visualization libraries
+
+### Email: farhadk.data@gmail.com
